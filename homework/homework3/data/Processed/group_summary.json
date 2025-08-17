@@ -2,43 +2,31 @@
   "schema":{
     "fields":[
       {
-        "name":"Age",
-        "type":"integer"
+        "name":"category",
+        "type":"string"
       },
       {
-        "name":"Salary",
+        "name":"value",
         "type":"number"
       }
     ],
     "primaryKey":[
-      "Age"
+      "category"
     ],
     "pandas_version":"1.4.0"
   },
   "data":[
     {
-      "Age":18,
-      "Salary":975000.0
+      "category":"A",
+      "value":11.5
     },
     {
-      "Age":20,
-      "Salary":1560000.0
+      "category":"B",
+      "value":15.6666666667
     },
     {
-      "Age":21,
-      "Salary":890000.0
-    },
-    {
-      "Age":22,
-      "Salary":800000.0
-    },
-    {
-      "Age":25,
-      "Salary":650000.0
-    },
-    {
-      "Age":26,
-      "Salary":1050000.0
+      "category":"C",
+      "value":27.6666666667
     }
   ]
 }
