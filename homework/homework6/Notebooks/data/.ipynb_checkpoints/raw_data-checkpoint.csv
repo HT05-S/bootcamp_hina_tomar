@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Gender,Country,SignupDate,PurchaseAmount,Membership
+1.0,Hina,25.0,F,USA,2023-01-01,250.5,Gold
+2.0,Shivam,30.0,M,Canada,2023-01-16,300.0,Silver
+3.0,Tanya,,M,USA,2023-01-31,,Gold
+4.0,Shubham,40.0,M,UK,2023-02-15,450.0,None
+5.0,Eve,22.0,F,Canada,2023-03-02,150.0,Gold
+6.0,Samarth,35.0,M,USA,2023-03-17,500.0,Silver
+,Priyanshi,28.0,F,UK,2023-04-01,275.0,Gold
+8.0,Eric,,F,UK,2023-04-16,325.0,None
+9.0,Rehan,42.0,,USA,2023-05-01,,Silver
+10.0,Jigyasa,29.0,M,,2023-05-16,400.0,Gold
